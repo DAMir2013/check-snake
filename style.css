@@ -1,0 +1,42 @@
+button {
+  width: 15%;
+  height: auto;
+}
+
+.fieldClass {
+  /* width: 500px;
+  height: 500px; */
+  border: 2px solid black;
+  font-size: 0px;
+}
+
+.cellClass {
+  width: 10px;
+  height: 10px;
+  background-color: green;
+  display: inline-block;
+}
+.flyClass {
+  background-color: yellow;
+  width: 10px;
+  height: 10px;
+  display: inline-block;
+}
+.bodySnake {
+  background-color: black;
+  width: 10px;
+  height: 10px;
+  display: inline-block;
+}
+.head {
+  background-color: red;
+  width: 10px;
+  height: 10px;
+  display: inline-block;
+}
+.tailSnake {
+  background-color: black;
+  width: 10px;
+  height: 10px;
+  display: inline-block;
+}
